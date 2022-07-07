@@ -239,6 +239,10 @@ export default function App() {
         </Col>:
         <Col></Col>}
       </Row>}
+      <div className="mt-5">
+        <a href="https://github.com/ikeyu-tp" target={"_blank"} className="me-3">ソースコード</a>
+        <a href="https://home.hiroshima-u.ac.jp/m225513" target={"_blank"}>Y.IKEDA</a>
+      </div>
     </div>
   );
 }
